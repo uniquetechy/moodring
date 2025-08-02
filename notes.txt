@@ -1,0 +1,6 @@
+
+
+	Decided on an idea for a script.  Have tried twice already.  Scripting takes some getting used to.  This project should be simple enough.  It's a quote generator that displays a quote based on 
+	how the person is feeling, hence the name "moodring."  I've started scripting.  So far, so good.  I will use an if/then/else construct.
+
+	Scripting is going well.  It's a simple design.  Forgot to add fi to close the parameter. I will make changes and test it again.
