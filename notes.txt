@@ -4,3 +4,5 @@
 	how the person is feeling, hence the name "moodring."  I've started scripting.  So far, so good.  I will use an if/then/else construct.
 
 	Scripting is going well.  It's a simple design.  Forgot to add fi to close the parameter. I will make changes and test it again.
+
+	Finished script, but really it's a work in progress.
